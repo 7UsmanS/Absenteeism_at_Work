@@ -1,7 +1,11 @@
-# Absenteeism_at_Work
+# Predicting Absenteeism At Work using JMP Pro
 Predictive Modeling of Absenteeism at Work Dataset
 
-The project aims to discover and predict interesting relationships and patterns using a significant amount of real data to fully execute a predictive model on the dataset.  The project further follows the SEMMA process to yield valid business findings.  
+The project aims to discover and predict interesting relationships and patterns using a significant amount of real data to fully execute various predictive models on the dataset. The data set was sourced from the UC Irvine Machine Learning Repository. 
+
+https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work
+
+The dataset is a record of employee absenteeism from a courier company in Brazil. The project further follows the SEMMA process to yield valid business findings.  
 
 
 Requirements:
